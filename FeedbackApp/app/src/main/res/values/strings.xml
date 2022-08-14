@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Feedback App</string>
+    <string name="app_login">Logg inn</string>
+    <string name="app_register">Registrer deg</string>
+    <string name="app_home">Hjem</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Logg inn</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="registerButton">Registrer</string>
+    <string name="guestButton">Testområde / Testside</string>
+
+    <!-- Strings related to register -->
+    <string name="prompt_name">Skriv inn ditt navn</string>
+    <string name="prompt_mail">Skriv inn din e-post addresse</string>
+    <string name="prompt_lastName">Skriv inn ditt etternavn</string>
+    <string name="prompt_pass">Passord</string>
+    <string name="prompt_repeat">Gjenta passord</string>
+    <string name="button_submit">Submit</string>
+    <string name="register_info">Registrer en brukerkonto</string>
+    <string name="pass_info">Passord trenger minst et tall, en stor bokstav, en liten bokstav og et spesialtegn.</string>
+    <string name="prompt_kull">Skriv inn årskullet du tilhører</string>
+    <string name="prompt_studie">Skriv inn din studieretning</string>
+
+
+    <!-- Strings related to home -->
+    <string name="home_overviewInfo">Se alle tilbakemeldinger og svar</string>
+    <string name="home_placeholder">Placeholder button. Click to go back.</string>
+    <string name="home_parse">Parse</string>
+    <string name="home_feedOverview">oversikt</string>
+    <string name="home_feedWrite">Skriv ny</string>
+    <string name="home_logout">Logg ut</string>
+    <string name="home_writeInfo">Gi din tilbakemelding i et emne</string>
+
+    <!-- Strings related to feedback OVERVIEW -->
+    <string name="feedback_overview_info">Tilbakemeldinger</string>
+    <string name="app_feed_over">Oversikt</string>
+
+
+    <!-- Strings related to feedback WRITE -->
+    <string name="feedback_write_info">Gi tilbakemelding</string>
+    <string name="reg_name">TextView</string>
+    <string name="send_msg_button">SEND</string>
+    <string name="del_din_mening_her">Del din mening her</string>
+    <string name="app_feed_write">Skriv ny</string>
+
+</resources>
